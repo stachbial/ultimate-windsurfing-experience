@@ -1,0 +1,55 @@
+Nowa gra
+Wczytaj gre
+Najlepsze Wyniki
+Wyjscie
+c - credits
+s - irr shape
+Wprowadz nick na klawiaturze i 'zatwierdz' !
+->s
+Zatwierdz
+Wstecz
+Wybierz poziom trudnosci
+Easy - jesli Wolisz zbytnio nie ryzykowac
+Hard - jesli Jestes prawdziwym Graczem
+AfterParty - COMING SOON
+Wstecz
+Graj
+Wroc do wyboru poziomu trudnosci
+Wroc do menu glownego
+Wczytaj gre . . .
+Ostatni zapis
+Wstecz
+Jestes pewny,a by nadpisac ten plik ?
+Tak, gram
+Wstecz
+Najlepsze Wyniki:
+1. Andrzej
+2. Rafał
+3. Marian
+Wstecz
+Cel gry !
+Dotrzec do mety omijajac wszystkich przeciwnikow
+Conrols !
+W - PLYN GORE
+S - PLYN W DOL
+A - PLYN W LEWO
+D - PLYN W PRAWO
+OK - ENTER
+WYJSCIE , CZY CHCESZ ZAPISAC GRE !
+GRAM DALEJ
+zapisuje I WYCHODZE
+NIE zapisuje I WYCHODZE
+.
+.
+ENTER - POWROT DO MENU GLOWNEGO
+.
+.
+ENTER - POWROT DO MENU GLOWNEGO
+ENTER - POWROT DO MENU GLOWNEGO
+Aleksander hejber
+Autor muzyki :
+Adam zloch
+autor textur :
+STanislaw Bialecki, pg ARiSS SEM.3 GR.1
+Autor Projektu i kodu zrodlowego :
+Credits
