@@ -6,4 +6,4 @@ There are lots of possible fixes or refactoring ideas, but I chose to continue o
 For now I have no plans on changing it, as it has quite sentimental value for me:)
 
 This repository does not contain any project configuration files - only the raw files i have written myself back in 2020.
-The music and textures are made the good collegues of mine.
+The music and textures are made by the good collegues of mine.
