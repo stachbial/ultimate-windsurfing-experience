@@ -1,5 +1,5 @@
 # ultimate-windsurfing-experience
-This is the first quite large project I have ever made, that basically started my adventure with programming.
+This is the first 'quite large' project I have ever made, that basically started my adventure with programming.
 A 2d game written in c++ using SFML library, which was my final project on programming classes.
 I have never developed it further since I had submitted it at uni.
 There are lots of possible fixes or refactoring ideas, but I chose to continue on learning by making new projects.
